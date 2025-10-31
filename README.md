@@ -2,7 +2,8 @@
 
 This project is a frontend clone of Amazon’s e-commerce website, built using HTML, CSS, and JavaScript. It recreates the core design and user interface of Amazon, including the homepage, product listings, navigation bar, and responsive layout.
 
-Project link:https://drive.google.com/drive/folders/1vA5pptWLe5jcKaJL6ICPo3wMVDkJwE0r?usp=sharing
+Project link: https://drive.google.com/drive/folders/1vA5pptWLe5jcKaJL6ICPo3wMVDkJwE0r?usp=sharing
+
 download and extract the folder and open in vs-code to open the website with its resources 
 
 Currently, the project focuses entirely on the frontend UI to deliver a realistic shopping experience.

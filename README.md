@@ -8,6 +8,7 @@ download and extract the folder and open in vs-code to open the website with its
 
 ⚠️ CAUTION:
 DO NOT change the location or name of any files, as it may lead to errors in file fetching and break certain functionalities in the project structure.
+
 Currently, the project focuses entirely on the frontend UI to deliver a realistic shopping experience.
 
 ⚙️ Note: Backend functionality, database integration, and Java interactivity are still in progress and will be added in upcoming updates.
